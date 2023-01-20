@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "5QGBhQbzBEB97dIYnQ+ONpRH7yj/TA/Zhp9syY1ln0Q=",
+  "Source": "WordPredictorMinimalApi",
+  "BasePath": "_content/WordPredictorMinimalApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
