@@ -6,7 +6,7 @@ namespace WordPredictorMinimalApi.Clients
     {
         static HttpClient httpClient = new HttpClient();
         static string url = "https://services.lingapps.dk/misc/getPredictions";
-        static string apiKey = "MjAyMy0wMS0xMw==.a2FtaWxsZS5yeWVAZ21haWwuY29t.OGZhN2JiOGNiZDc1MDIyNzI3OGMxODVhZjQzODk4OWY=";
+        static string apiKey = "";
         static string locale = "en-GB";
         public async Task<string> Get(string? textInput)
         {
